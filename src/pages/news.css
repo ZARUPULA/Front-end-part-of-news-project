@@ -1,0 +1,69 @@
+.news {
+
+    display: flex;
+
+    flex-direction: row;
+
+    width: 100%;
+
+    gap: 10px;
+
+  }
+
+  
+
+  .newsPageContainer {
+
+    display: flex;
+
+    gap: 20px;
+
+  }
+
+  
+
+  /* .newsHeading{
+
+    text-align: center;
+
+    
+
+  
+
+  } */
+
+  .newsHeading{
+
+    color: rgb(8, 8, 8);
+
+  }
+
+  
+
+  .newsList {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    gap: 40px;
+
+    margin: 50px;
+
+  }
+
+  /* .filterContainer {
+
+    padding: 0 40px ;
+
+    border-right: 2px solid #fff;
+
+    margin: 50px;
+
+    justify-content: center;
+
+  
+
+  } */

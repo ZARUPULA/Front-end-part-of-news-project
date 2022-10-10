@@ -1,0 +1,55 @@
+.film {
+
+    display: flex;
+
+    flex-direction: row;
+
+    width: 100%;
+
+    gap: 10px;
+
+  }
+
+  
+
+  .filmPageContainer {
+
+    display: flex;
+
+    gap: 20px;
+
+  }
+
+  
+
+  /* .newsHeading{
+
+    text-align: center;
+
+    
+
+  
+
+  } */
+
+  .filmHeading{
+
+    color: rgb(8, 8, 8);
+
+  }
+
+  
+
+  .filmList {
+
+    display: flex;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+
+    gap: 40px;
+
+    margin: 50px;
+
+  }
